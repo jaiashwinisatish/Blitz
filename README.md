@@ -1,6 +1,6 @@
 # 🚀 Blitzs Platform
 
-> A complete, modern full-stack web application for showcasing and selling software projects
+> A complete, modern full-stack web application for showcasing and selling software projects.
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
