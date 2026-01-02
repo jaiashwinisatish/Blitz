@@ -61,7 +61,7 @@ Blitzs is a **production-ready platform** for development teams to:
 - View all purchases and revenue
 - Monitor top-selling projects
 
----
+----
 
 ## 🛠️ Tech Stack
 
