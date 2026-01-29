@@ -1,4 +1,4 @@
-# 🚀 Blitzs 
+# 🚀 Blitzs plattform 
 
 > A complete, modern full-stack web application for showcasing and selling software projects.
 
